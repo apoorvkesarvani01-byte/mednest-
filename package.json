@@ -5,13 +5,13 @@
   "description": "MEDNEST — Healthcare, Connected. A modern unified healthcare platform connecting emergency coordination, hospital discovery, verified consultations, diagnostics, pharmacy, and post-discharge home recovery.",
   "author": "Apoorv Kesarvani (https://github.com/apoorvkesarvani01-byte)",
   "license": "MIT",
-  "homepage": "https://apoorvkesarvani01-byte.github.io/mednest",
+  "homepage": "https://apoorvkesarvani01-byte.github.io/mednest-",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apoorvkesarvani01-byte/mednest.git"
+    "url": "https://github.com/apoorvkesarvani01-byte/mednest-.git"
   },
   "bugs": {
-    "url": "https://github.com/apoorvkesarvani01-byte/mednest/issues"
+    "url": "https://github.com/apoorvkesarvani01-byte/mednest-/issues"
   },
   "keywords": [
     "healthcare",
