@@ -1,0 +1,49 @@
+{
+  "name": "mednest",
+  "private": false,
+  "version": "1.0.0",
+  "description": "MEDNEST — Healthcare, Connected. A modern unified healthcare platform connecting emergency coordination, hospital discovery, verified consultations, diagnostics, pharmacy, and post-discharge home recovery.",
+  "author": "Apoorv Kesarvani (https://github.com/apoorvkesarvani01-byte)",
+  "license": "MIT",
+  "homepage": "https://apoorvkesarvani01-byte.github.io/mednest",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apoorvkesarvani01-byte/mednest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apoorvkesarvani01-byte/mednest/issues"
+  },
+  "keywords": [
+    "healthcare",
+    "health-tech",
+    "telemedicine",
+    "emergency-coordination",
+    "hospital-discovery",
+    "home-healthcare",
+    "recovery-management",
+    "react",
+    "vite",
+    "abdm",
+    "india"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "oxlint"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "lucide-react": "^1.52.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "vite": "^8.3.0"
+  }
+}
